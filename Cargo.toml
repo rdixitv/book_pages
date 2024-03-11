@@ -1,5 +1,5 @@
 [package]
-name = "book_pages"
+name = "bpgs"
 version = "0.1.0"
 edition = "2021"
 
